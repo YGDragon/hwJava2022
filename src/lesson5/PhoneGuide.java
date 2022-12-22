@@ -1,6 +1,5 @@
 package lesson5;
 
-import javax.swing.*;
 import java.util.*;
 
 import static java.lang.System.in;
