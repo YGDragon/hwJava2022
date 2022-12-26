@@ -37,7 +37,7 @@ public class PhoneGuide {
 
     public static ArrayList<String> getListNumbers() {
         ArrayList<String> phone = new ArrayList<>();
-        System.out.println("Введите номера телефонов");
+        System.out.println("Введите номера телефонов:");
         for (int i = 1; i <= quantity; i++) {
             phone.add(getData.next());
         }
